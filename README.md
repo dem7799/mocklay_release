@@ -1,13 +1,21 @@
-# Mocklay Desktop Suite 🚀
+<p align="center">
+  <img src="assets/logo.png" alt="Mocklay Logo" width="88" />
+</p>
 
-> **Focused, privacy-first desktop tools for indie mobile developers.**  
-> Everything you need to design, localize, publish, and track your mobile apps on the App Store and Google Play — without the subscription grind or cloud lock-in.
+<h1 align="center">Mocklay Desktop Suite</h1>
 
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-007ACC?style=flat-square&logo=apple&logoColor=white)](https://github.com/dem7799/mocklay_release/releases)
-[![Built with Tauri v2](https://img.shields.io/badge/Built%20with-Tauri%20v2%20(Rust)-DEA584?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app)
-[![UI: Svelte 5](https://img.shields.io/badge/UI-Svelte%205-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev)
-[![Local First](https://img.shields.io/badge/Privacy-100%25%20Local--First-10B981?style=flat-square&logo=shield&logoColor=white)](https://mocklay.com)
-[![Free Trial](https://img.shields.io/badge/Trial-7%20Days%20Full%20Access-6366F1?style=flat-square)](https://mocklay.com)
+<p align="center">
+  <strong>Focused, privacy-first desktop tools for indie mobile developers.</strong><br />
+  Everything you need to design, localize, publish, and track your mobile apps on the App Store and Google Play — without the subscription grind or cloud lock-in.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dem7799/mocklay_release/releases"><img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-007ACC?style=flat-square&logo=apple&logoColor=white" alt="Platform" /></a>
+  <a href="https://tauri.app"><img src="https://img.shields.io/badge/Built%20with-Tauri%20v2%20(Rust)-DEA584?style=flat-square&logo=tauri&logoColor=white" alt="Built with Tauri v2" /></a>
+  <a href="https://svelte.dev"><img src="https://img.shields.io/badge/UI-Svelte%205-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="UI: Svelte 5" /></a>
+  <a href="https://mocklay.com"><img src="https://img.shields.io/badge/Privacy-100%25%20Local--First-10B981?style=flat-square&logo=shield&logoColor=white" alt="Local First" /></a>
+  <a href="https://mocklay.com"><img src="https://img.shields.io/badge/Trial-7%20Days%20Full%20Access-6366F1?style=flat-square" alt="Free Trial" /></a>
+</p>
 
 ---
 
@@ -26,7 +34,9 @@ Mobile release prep and store monitoring shouldn't eat up your afternoons. Every
 
 > **Design once, translate into 40+ languages, export every device size, and publish directly to App Store Connect & Google Play Console.**
 
-![Mocklay Studio](https://mocklay.com/images/studio-preview.png)
+<p align="center">
+  <img src="assets/studio-ui.png" alt="Mocklay Studio Screenshot" width="100%" />
+</p>
 
 ### 💡 The Problem It Solves
 Preparing store listings is tedious manual labor:
@@ -63,7 +73,9 @@ Preparing store listings is tedious manual labor:
 
 > **Accurate, native App Store keyword tracking that stays out of your way. Run checks up to 200 positions deep with zero third-party API subscriptions.**
 
-![Mocklay Tracker](https://mocklay.com/images/tracker-preview.png)
+<p align="center">
+  <img src="assets/tracker-ui.png" alt="Mocklay Tracker Screenshot" width="100%" />
+</p>
 
 ### 💡 The Problem It Solves
 Most ASO and keyword tracking tools are bloated web SaaS platforms charging $50–$200/month for metered queries and keeping your competitive keyword data on external servers.
